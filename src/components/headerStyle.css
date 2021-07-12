@@ -1,0 +1,19 @@
+ul{
+    background-color: #333;
+    padding: 20px 0px 30px 0px;
+    width: 100%;
+    margin: 0;
+    }
+    li{
+        margin: 0;
+        text-align: center;
+        color: aliceblue;
+        font-size: 20px;
+        font-weight: bold;
+        list-style: none;
+    }
+    input{
+    height: 25px;
+    width: 300px;
+    outline-color: darkblue;
+    }
